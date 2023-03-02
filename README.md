@@ -1,4 +1,4 @@
-# estado-global-exercicio
+# Estado Global - Exercício
 
 ## Exercício: Pokédex
 O exercício de hoje é analisar um projeto já parcialmente implementado para praticar a leitura de componentes e fluxo de dados.
