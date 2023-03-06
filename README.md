@@ -2,7 +2,7 @@
 
 ## Exercício: Pokédex
 O exercício de hoje é analisar um projeto já parcialmente implementado para praticar a leitura de componentes e fluxo de dados.
-https://codesandbox.io/s/estado-global-exercicios-fpeiux
+https://codesandbox.io/s/template-context-z9fznu
 
 ### 1: Desenhe a estrutura dos componentes
 Você pode criar algo parecido com as ilustrações do material async!
